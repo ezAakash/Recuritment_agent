@@ -71,8 +71,10 @@ You will need the following installed:
    ```
 3. Run the Streamlit application:
    ```bash
+   first put openAI api key on the frontend.
    streamlit run app.py
    ```
+    
 4. Access the web interface at `http://localhost:8501`. Enter your OpenAI API key in the sidebar to begin.
 
 ## 🛠️ Technology Stack
